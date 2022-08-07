@@ -11,7 +11,7 @@ app.get('/', (req, res) => {
 app.listen(3000, () => {
   console.log('Server Started.');
 });
-client.login("ODY3MjA4MzU5MzM3Mzk0MTk0.YPdwuA.3A7bYAjbwYc9XPwZIppd6FinqxM");
+client.login("MTAwNTg0ODgwOTM3ODY5MzE1NA.GwKZ-o.KmFZhnmu4zmibvl97FfMNhAp1IPbnFgHYQTAJ8");
 const prefix = "+";
 ////////////////////////
 client.on("message", message => {
